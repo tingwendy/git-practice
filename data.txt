@@ -1,0 +1,5 @@
+name: wendy chen
+age: 29
+favorite color: green
+git init
+git --version
